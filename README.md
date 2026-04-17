@@ -1,8 +1,10 @@
 <h1 align="center">Ecommerce Sales Analysis - Excel & Looker Studio</h1>
+
 <p align="center">
   <img width="1319" height="989" alt="Screenshot 2026-04-17 122509" src="https://github.com/user-attachments/assets/b7855d94-345b-40b1-a3fd-e0a9b3830638" />
 </p>
-<br>
+
+*Gervon Alcide*
 
 
 An end-to-end data analysis project on a public ecommerce dataset. 
