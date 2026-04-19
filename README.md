@@ -16,7 +16,9 @@ interactive sales dashboard in Looker Studio.
 **Tools:** Microsoft Excel, Google Sheets, Google Looker Studio  
 **Dataset:** [Online Sales Dataset — Kaggle](https://www.kaggle.com/datasets/shreyanshverma27/online-sales-dataset-popular-marketplace-data)  
 **Records:** 240 rows, 8 columns  
-**Live Dashboard:** [View Interactive Dashboard](https://datastudio.google.com/s/rcDzUJurFyI)
+**Live Dashboard:** [View Interactive Dashboard](https://datastudio.google.com/s/rcDzUJurFyI)  
+**Excel File:** [Online Sales Data.xlsx](https://github.com/user-attachments/files/26870066/Online.Sales.Data.xlsx)
+
 
 ---
 
